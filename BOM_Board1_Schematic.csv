@@ -1,0 +1,8 @@
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier,Link,
+1,8,1uF,"C1,C2,C3,C4,C5,C6,C7,C10",C0603,1uF,,IHHEC,LCSC,C0603X105K016T | Ceramic Capacitors | IHHEC | LCSC,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_IHHEC-C0603X105K016T_C19841962.html
+2,3,100nF,"C8,C9,C11",C0603,100nF,,FH,LCSC,0603B104K500NT | Ceramic Capacitors | FH | LCSC,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_FH-0603B104K500NT_C30926.html
+3,2,5.1K,"R1,R2",R0603,5.1K,,Milliohm,LCSC,HoAR0603-1/10W-5.1KR-0.1%-TCR25 | Chip Resistor - Surface Mount | Milliohm | LCSC,https://www.lcsc.com/product-detail/Chip-Resistor---Surface-Mount_Milliohm-HoAR0603-1-10W-5-1KR-0-1--TCR25_C5123587.html
+4,2,56K,"R3,R4",R0603,56K,,VO,LCSC,SCR0603J56K | Chip Resistor - Surface Mount | VO | LCSC,https://www.lcsc.com/product-detail/Chip-Resistor---Surface-Mount_VO-SCR0603J56K_C3017697.html
+5,1,SL2.1s,U1,SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL,,SL2.1s,CoreChips(和芯润德),LCSC,SL2.1s | Interface Controllers | CoreChips | LCSC,https://www.lcsc.com/product-detail/USB-HUB-Controllers_CoreChips-SL2-1s_C2684433.html
+6,2,TYPE-C 16PIN 2MD(073),"USB1,USB6",USB-C-SMD_TYPE-C-16PIN-2MD-073,,TYPE-C 16PIN 2MD(073),SHOU HAN(首韩),LCSC,"TYPE-C 16PIN 2MD(073) | USB, DVI, HDMI Connector Assemblies | SHOU HAN | LCSC",https://www.lcsc.com/product-detail/USB-Connectors_SHOU-HAN-TYPE-C-16PIN-2MD-073-_C2765186.html
+7,3,10.0 QHHTZB6.3,"USB2,USB3,USB4",USB-A-TH_10.0QHHTZB6.3,,10.0 QHHTZB6.3,SHOU HAN(首韩),LCSC,"10.0 QHHTZB6.3 | USB, DVI, HDMI Connector Assemblies | SHOU HAN | LCSC",https://www.lcsc.com/product-detail/USB-Connectors_SHOU-HAN-10-0-QHHTZB6-3_C668591.html
