@@ -7,7 +7,10 @@ This is a prety small USB HUB shaped like a F40.
 
 It have 1 usb C to connect it to your PC and 1 usb C and 3 USB A where u can connect any of your devices.
 It is made to use every USB with data transfer and not only like a charger so you can connect yuor smmartphone, racing wheel, etc,
-you can design your custom case or wait until i upload mine.
+You can design your custom case or print the one that i've done.
+
+<img width="714" height="424" alt="image" src="https://github.com/user-attachments/assets/62264645-901d-43d9-8de8-9a7373c69202" />
+
 
 I hope you like it, on JLPCB it cost more or less like 25$ without shipping costs and taxes.
 
