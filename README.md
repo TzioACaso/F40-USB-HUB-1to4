@@ -11,6 +11,24 @@ you can design your custom case or wait until i upload mine.
 
 I hope you like it, on JLPCB it cost more or less like 25$ without shipping costs and taxes.
 
-<img width="407" height="379" alt="Screenshot 2026-07-31 174748" src="https://github.com/user-attachments/assets/31b62253-e248-4ecc-8654-2897ef988095" />
+<img width="1400" height="448" alt="prezzi nuovi 2" src="https://github.com/user-attachments/assets/eab80b20-6d51-41c1-b9c4-974bf7c490fa" />
+
 
 Here the link to check it out: https://oshwlab.com/abbonasimone/project_bdkhchxi
+
+
+BOM:
+|   Qty for each PCB   |      Top Designator      |       Comment       |             Footprint            |        Part #         |        Manufacturer       | JLCPCB Part # |                             Product link                            | Unit Price € | Total Price € |   |   |   |
+|:--------------------:|:------------------------:|:-------------------:|:--------------------------------:|:---------------------:|:-------------------------:|:-------------:|:-------------------------------------------------------------------:|--------------|:-------------:|---|---|---|
+|                    8 | C1,C2,C3,C4,C5,C6,C7,C10 | 1uF                 | C0603                            | CL10A105KB8NNNC       | Samsung Electro-Mechanics | C15849        | https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849          |       0,0653 |          0,52 |   |   |   |
+|                    3 | C8,C9,C11                | 100nF               | C0603                            | CC0603JRX7R9BB104     | YAGEO                     | C91183        | https://jlcpcb.com/partdetail/YAGEO-CC0603JRX7R9BB104/C91183        |       0,0275 |          0,08 |   |   |   |
+|                    2 | R1,R2                    | 5.1kΩ               | R0603                            | 0603WAF5101T5E        | UNI-ROYAL(Uniroyal Elec)  | C23186        | https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186           |       0,0073 |          0,01 |   |   |   |
+|                    2 | R3,R4                    | 56kΩ                | R0603                            | SCR0603J56K           | VO                        | C3017697      | https://jlcpcb.com/partdetail/VO-SCR0603J56K/C3017697               |       0,0008 |          0,01 |   |   |   |
+|                    1 | U1                       | SL2.1s              | SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL | SL2.1s                | CoreChips                 | C2684433      | https://jlcpcb.com/partdetail/CoreChips-SL21s/C2684433              |        0,217 |          0,22 |   |   |   |
+|                    2 | USB1,USB6                | TYPE-C16PIN2MD(073) | USB-C-SMD_TYPE-C-16PIN-2MD-073   | TYPE-C 16PIN 2MD(073) | SHOU HAN                  | C2765186      | https://jlcpcb.com/partdetail/SHOUHAN-TYPE_C_16PIN_2MD_073/C2765186 |       0,0637 |          0,13 |   |   |   |
+|                    3 | USB2,USB3,USB4           | 10.0QHHTZB6.3       | USB-A-TH_10.0QHHTZB6.3           | 10.0 QHHTZB6.3        | SHOU HAN                  | C668591       | https://jlcpcb.com/partdetail/SHOUHAN-10_0_QHHTZB63/C668591         |       0,0573 |          0,17 |   |   |   |
+|                      |                          |                     |                                  |                       |                           |               |                                                                     |              |               |   |   |   |
+| Min Qty on JLPCB = 5 | PCB1                     | PCB                 |                                  |                       |                           |               |                                                                     |              |          1,73 |   |   |   |
+| Min Qty on JLPCB = 2 | Assemble Top Side        | Assemble Top Side   |                                  |                       |                           |               |                                                                     |              |         26,59 |   |   |   |
+|                      |                          |                     |                                  |                       |                           |               |                                                                     |              |               |   |   |   |
+|                      |                          |                     |                                  |                       |                           |               |                                                                     |              |         29,46 |   |   |   |
