@@ -19,6 +19,13 @@ I hope you like it, on JLPCB it cost more or less like 25$ without shipping cost
 
 Here the link to check it out: https://oshwlab.com/abbonasimone/project_bdkhchxi
 
+Assembly:
+The assembly is really easy, after you got the PCB, the components and the 3D printed case, you have to solder the components on the pcb following the schematics and then place the PCB in the case and simply screw it in with M3x5mm screws, there is no need of nuts or heat inserts, you can just screw it in the plastic.
+
+<img width="703" height="458" alt="image" src="https://github.com/user-attachments/assets/d89c3d2a-7b5b-4852-98a3-f889fb1a9aca" />
+<img width="982" height="544" alt="image" src="https://github.com/user-attachments/assets/5f1cf2e2-2896-454f-9db8-2f8718adae41" />
+
+
 
 BOM:
 |   Qty for each PCB   |      Top Designator      |       Comment       |             Footprint            |        Part #         |        Manufacturer       | JLCPCB Part # |                             Product link                            | Unit Price € | Total Price € |   |   |   |
